@@ -1,0 +1,16 @@
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\bin\Debug\net8.0-windows\Calendar and Appointments GUI.exe
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\bin\Debug\net8.0-windows\Calendar and Appointments GUI.deps.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\bin\Debug\net8.0-windows\Calendar and Appointments GUI.runtimeconfig.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\bin\Debug\net8.0-windows\Calendar and Appointments GUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\bin\Debug\net8.0-windows\Calendar and Appointments GUI.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\Calendar_and_Appointments_GUI.MySchedulerFrm.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\Calendar and Appointments GUI.csproj.GenerateResource.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\Calendar and Appointments GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\Calendar and Appointments GUI.AssemblyInfoInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\Calendar and Appointments GUI.AssemblyInfo.cs
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\Calendar and Appointments GUI.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\Calendar and Appointments GUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\refint\Calendar and Appointments GUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\Calendar and Appointments GUI.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\Calendar and Appointments GUI.genruntimeconfig.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calendar and Appointments GUI\obj\Debug\net8.0-windows\ref\Calendar and Appointments GUI.dll
