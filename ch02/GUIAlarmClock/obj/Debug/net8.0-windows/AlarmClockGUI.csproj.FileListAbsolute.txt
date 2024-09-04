@@ -1,0 +1,16 @@
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\bin\Debug\net8.0-windows\AlarmClockGUI.exe
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\bin\Debug\net8.0-windows\AlarmClockGUI.deps.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\bin\Debug\net8.0-windows\AlarmClockGUI.runtimeconfig.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\bin\Debug\net8.0-windows\AlarmClockGUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\bin\Debug\net8.0-windows\AlarmClockGUI.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\AlarmClockGUI.csproj.GenerateResource.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\AlarmClockGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\AlarmClockGUI.AssemblyInfoInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\AlarmClockGUI.AssemblyInfo.cs
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\AlarmClockGUI.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\AlarmClockGUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\refint\AlarmClockGUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\AlarmClockGUI.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\AlarmClockGUI.genruntimeconfig.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\ref\AlarmClockGUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\AlarmClockGUI\obj\Debug\net8.0-windows\AlarmClockGUI.AlarmClockFrm.resources

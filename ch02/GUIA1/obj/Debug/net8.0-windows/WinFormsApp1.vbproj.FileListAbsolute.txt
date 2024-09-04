@@ -1,0 +1,35 @@
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Visual Studio 2022\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\GUIA1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
