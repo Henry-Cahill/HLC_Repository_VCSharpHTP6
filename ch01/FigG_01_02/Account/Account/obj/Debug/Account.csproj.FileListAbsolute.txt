@@ -1,0 +1,14 @@
+C:\Users\hlcma\OneDrive\Desktop\VCSharpHTP6-master\VCSharpHTP6-master\examples\appG\FigG_01_02\Account\Account\bin\Debug\Account.exe.config
+C:\Users\hlcma\OneDrive\Desktop\VCSharpHTP6-master\VCSharpHTP6-master\examples\appG\FigG_01_02\Account\Account\bin\Debug\Account.exe
+C:\Users\hlcma\OneDrive\Desktop\VCSharpHTP6-master\VCSharpHTP6-master\examples\appG\FigG_01_02\Account\Account\bin\Debug\Account.pdb
+C:\Users\hlcma\OneDrive\Desktop\VCSharpHTP6-master\VCSharpHTP6-master\examples\appG\FigG_01_02\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\hlcma\OneDrive\Desktop\VCSharpHTP6-master\VCSharpHTP6-master\examples\appG\FigG_01_02\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\OneDrive\Desktop\VCSharpHTP6-master\VCSharpHTP6-master\examples\appG\FigG_01_02\Account\Account\obj\Debug\Account.exe
+C:\Users\hlcma\OneDrive\Desktop\VCSharpHTP6-master\VCSharpHTP6-master\examples\appG\FigG_01_02\Account\Account\obj\Debug\Account.pdb
+E:\Examples\ch01\FigG_01_02\Account\Account\bin\Debug\Account.exe.config
+E:\Examples\ch01\FigG_01_02\Account\Account\bin\Debug\Account.exe
+E:\Examples\ch01\FigG_01_02\Account\Account\bin\Debug\Account.pdb
+E:\Examples\ch01\FigG_01_02\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+E:\Examples\ch01\FigG_01_02\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+E:\Examples\ch01\FigG_01_02\Account\Account\obj\Debug\Account.exe
+E:\Examples\ch01\FigG_01_02\Account\Account\obj\Debug\Account.pdb
