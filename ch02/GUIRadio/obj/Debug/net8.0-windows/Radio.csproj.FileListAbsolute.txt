@@ -1,0 +1,17 @@
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\bin\Debug\net8.0-windows\Radio.exe
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\bin\Debug\net8.0-windows\Radio.deps.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\bin\Debug\net8.0-windows\Radio.runtimeconfig.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\bin\Debug\net8.0-windows\Radio.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\bin\Debug\net8.0-windows\Radio.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\Radio.Form1.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\Radio.Properties.Resources.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\Radio.csproj.GenerateResource.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\Radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\Radio.AssemblyInfoInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\Radio.AssemblyInfo.cs
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\Radio.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\Radio.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\refint\Radio.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\Radio.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\Radio.genruntimeconfig.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Radio\obj\Debug\net8.0-windows\ref\Radio.dll

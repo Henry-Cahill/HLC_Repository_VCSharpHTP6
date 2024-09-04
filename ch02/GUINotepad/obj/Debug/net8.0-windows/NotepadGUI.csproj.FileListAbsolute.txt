@@ -1,0 +1,16 @@
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\bin\Debug\net8.0-windows\NotepadGUI.exe
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\bin\Debug\net8.0-windows\NotepadGUI.deps.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\bin\Debug\net8.0-windows\NotepadGUI.runtimeconfig.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\bin\Debug\net8.0-windows\NotepadGUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\bin\Debug\net8.0-windows\NotepadGUI.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\NotepadGUI.Form1.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\NotepadGUI.csproj.GenerateResource.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\NotepadGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\NotepadGUI.AssemblyInfoInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\NotepadGUI.AssemblyInfo.cs
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\NotepadGUI.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\NotepadGUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\refint\NotepadGUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\NotepadGUI.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\NotepadGUI.genruntimeconfig.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\NotepadGUI\obj\Debug\net8.0-windows\ref\NotepadGUI.dll
