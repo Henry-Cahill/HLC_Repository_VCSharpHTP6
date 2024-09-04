@@ -1,0 +1,10 @@
+C:\Users\hlcma\Documents\Examples\examples\ch02\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe.config
+C:\Users\hlcma\Documents\Examples\examples\ch02\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe
+C:\Users\hlcma\Documents\Examples\examples\ch02\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.csproj.AssemblyReference.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Form1.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Properties.Resources.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.csproj.GenerateResource.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.exe
+C:\Users\hlcma\Documents\Examples\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.pdb

@@ -1,0 +1,16 @@
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\bin\Debug\net8.0-windows\Calculator GUI.exe
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\bin\Debug\net8.0-windows\Calculator GUI.deps.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\bin\Debug\net8.0-windows\Calculator GUI.runtimeconfig.json
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\bin\Debug\net8.0-windows\Calculator GUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\bin\Debug\net8.0-windows\Calculator GUI.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\Calculator_GUI.CalculatorFrm1.resources
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\Calculator GUI.csproj.GenerateResource.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\Calculator GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\Calculator GUI.AssemblyInfoInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\Calculator GUI.AssemblyInfo.cs
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\Calculator GUI.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\Calculator GUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\refint\Calculator GUI.dll
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\Calculator GUI.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\Calculator GUI.genruntimeconfig.cache
+C:\Users\hlcma\Documents\Examples\examples\ch02\Calculator GUI\obj\Debug\net8.0-windows\ref\Calculator GUI.dll
