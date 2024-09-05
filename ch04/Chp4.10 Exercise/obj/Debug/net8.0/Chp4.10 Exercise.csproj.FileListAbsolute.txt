@@ -1,0 +1,14 @@
+E:\Examples\ch04\Chp4.10 Exercise\bin\Debug\net8.0\Chp4.10 Exercise.exe
+E:\Examples\ch04\Chp4.10 Exercise\bin\Debug\net8.0\Chp4.10 Exercise.deps.json
+E:\Examples\ch04\Chp4.10 Exercise\bin\Debug\net8.0\Chp4.10 Exercise.runtimeconfig.json
+E:\Examples\ch04\Chp4.10 Exercise\bin\Debug\net8.0\Chp4.10 Exercise.dll
+E:\Examples\ch04\Chp4.10 Exercise\bin\Debug\net8.0\Chp4.10 Exercise.pdb
+E:\Examples\ch04\Chp4.10 Exercise\obj\Debug\net8.0\Chp4.10 Exercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Examples\ch04\Chp4.10 Exercise\obj\Debug\net8.0\Chp4.10 Exercise.AssemblyInfoInputs.cache
+E:\Examples\ch04\Chp4.10 Exercise\obj\Debug\net8.0\Chp4.10 Exercise.AssemblyInfo.cs
+E:\Examples\ch04\Chp4.10 Exercise\obj\Debug\net8.0\Chp4.10 Exercise.csproj.CoreCompileInputs.cache
+E:\Examples\ch04\Chp4.10 Exercise\obj\Debug\net8.0\Chp4.10 Exercise.dll
+E:\Examples\ch04\Chp4.10 Exercise\obj\Debug\net8.0\refint\Chp4.10 Exercise.dll
+E:\Examples\ch04\Chp4.10 Exercise\obj\Debug\net8.0\Chp4.10 Exercise.pdb
+E:\Examples\ch04\Chp4.10 Exercise\obj\Debug\net8.0\Chp4.10 Exercise.genruntimeconfig.cache
+E:\Examples\ch04\Chp4.10 Exercise\obj\Debug\net8.0\ref\Chp4.10 Exercise.dll
