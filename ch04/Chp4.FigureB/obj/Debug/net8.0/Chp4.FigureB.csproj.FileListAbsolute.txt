@@ -1,0 +1,14 @@
+D:\Examples\ch04\Chp4.FigureB\bin\Debug\net8.0\Chp4.FigureB.exe
+D:\Examples\ch04\Chp4.FigureB\bin\Debug\net8.0\Chp4.FigureB.deps.json
+D:\Examples\ch04\Chp4.FigureB\bin\Debug\net8.0\Chp4.FigureB.runtimeconfig.json
+D:\Examples\ch04\Chp4.FigureB\bin\Debug\net8.0\Chp4.FigureB.dll
+D:\Examples\ch04\Chp4.FigureB\bin\Debug\net8.0\Chp4.FigureB.pdb
+D:\Examples\ch04\Chp4.FigureB\obj\Debug\net8.0\Chp4.FigureB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\ch04\Chp4.FigureB\obj\Debug\net8.0\Chp4.FigureB.AssemblyInfoInputs.cache
+D:\Examples\ch04\Chp4.FigureB\obj\Debug\net8.0\Chp4.FigureB.AssemblyInfo.cs
+D:\Examples\ch04\Chp4.FigureB\obj\Debug\net8.0\Chp4.FigureB.csproj.CoreCompileInputs.cache
+D:\Examples\ch04\Chp4.FigureB\obj\Debug\net8.0\Chp4.FigureB.dll
+D:\Examples\ch04\Chp4.FigureB\obj\Debug\net8.0\refint\Chp4.FigureB.dll
+D:\Examples\ch04\Chp4.FigureB\obj\Debug\net8.0\Chp4.FigureB.pdb
+D:\Examples\ch04\Chp4.FigureB\obj\Debug\net8.0\Chp4.FigureB.genruntimeconfig.cache
+D:\Examples\ch04\Chp4.FigureB\obj\Debug\net8.0\ref\Chp4.FigureB.dll
