@@ -1,0 +1,14 @@
+D:\Examples\examples\ch03\Chp3.28\bin\Debug\net8.0\Chp3.28.exe
+D:\Examples\examples\ch03\Chp3.28\bin\Debug\net8.0\Chp3.28.deps.json
+D:\Examples\examples\ch03\Chp3.28\bin\Debug\net8.0\Chp3.28.runtimeconfig.json
+D:\Examples\examples\ch03\Chp3.28\bin\Debug\net8.0\Chp3.28.dll
+D:\Examples\examples\ch03\Chp3.28\bin\Debug\net8.0\Chp3.28.pdb
+D:\Examples\examples\ch03\Chp3.28\obj\Debug\net8.0\Chp3.28.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\examples\ch03\Chp3.28\obj\Debug\net8.0\Chp3.28.AssemblyInfoInputs.cache
+D:\Examples\examples\ch03\Chp3.28\obj\Debug\net8.0\Chp3.28.AssemblyInfo.cs
+D:\Examples\examples\ch03\Chp3.28\obj\Debug\net8.0\Chp3.28.csproj.CoreCompileInputs.cache
+D:\Examples\examples\ch03\Chp3.28\obj\Debug\net8.0\Chp3.28.dll
+D:\Examples\examples\ch03\Chp3.28\obj\Debug\net8.0\refint\Chp3.28.dll
+D:\Examples\examples\ch03\Chp3.28\obj\Debug\net8.0\Chp3.28.pdb
+D:\Examples\examples\ch03\Chp3.28\obj\Debug\net8.0\Chp3.28.genruntimeconfig.cache
+D:\Examples\examples\ch03\Chp3.28\obj\Debug\net8.0\ref\Chp3.28.dll
