@@ -1,0 +1,14 @@
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\bin\Debug\net8.0\Chp3 3.A.exe
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\bin\Debug\net8.0\Chp3 3.A.deps.json
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\bin\Debug\net8.0\Chp3 3.A.runtimeconfig.json
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\bin\Debug\net8.0\Chp3 3.A.dll
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\bin\Debug\net8.0\Chp3 3.A.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\obj\Debug\net8.0\Chp3 3.A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\obj\Debug\net8.0\Chp3 3.A.AssemblyInfoInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\obj\Debug\net8.0\Chp3 3.A.AssemblyInfo.cs
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\obj\Debug\net8.0\Chp3 3.A.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\obj\Debug\net8.0\Chp3 3.A.dll
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\obj\Debug\net8.0\refint\Chp3 3.A.dll
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\obj\Debug\net8.0\Chp3 3.A.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\obj\Debug\net8.0\Chp3 3.A.genruntimeconfig.cache
+C:\Users\hlcma\Documents\Examples\examples\ch03\Chp3 3.A\obj\Debug\net8.0\ref\Chp3 3.A.dll
