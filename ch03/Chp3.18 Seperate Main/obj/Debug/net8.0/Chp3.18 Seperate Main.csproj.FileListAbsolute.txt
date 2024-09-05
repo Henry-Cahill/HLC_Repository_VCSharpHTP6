@@ -1,0 +1,14 @@
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\bin\Debug\net8.0\Chp3.18 Seperate Main.exe
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\bin\Debug\net8.0\Chp3.18 Seperate Main.deps.json
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\bin\Debug\net8.0\Chp3.18 Seperate Main.runtimeconfig.json
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\bin\Debug\net8.0\Chp3.18 Seperate Main.dll
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\bin\Debug\net8.0\Chp3.18 Seperate Main.pdb
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\obj\Debug\net8.0\Chp3.18 Seperate Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\obj\Debug\net8.0\Chp3.18 Seperate Main.AssemblyInfoInputs.cache
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\obj\Debug\net8.0\Chp3.18 Seperate Main.AssemblyInfo.cs
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\obj\Debug\net8.0\Chp3.18 Seperate Main.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\obj\Debug\net8.0\Chp3.18 Seperate Main.dll
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\obj\Debug\net8.0\refint\Chp3.18 Seperate Main.dll
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\obj\Debug\net8.0\Chp3.18 Seperate Main.pdb
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\obj\Debug\net8.0\Chp3.18 Seperate Main.genruntimeconfig.cache
+C:\Users\hlcma\Desktop\Chp3.18 Seperate Main\obj\Debug\net8.0\ref\Chp3.18 Seperate Main.dll
