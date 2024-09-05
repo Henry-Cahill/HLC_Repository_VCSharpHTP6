@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chp 3.14 a-c/1.0.0": {
+        "runtime": {
+          "Chp 3.14 a-c.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chp 3.14 a-c/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
