@@ -1,0 +1,14 @@
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\bin\Debug\net8.0\Welcome4.exe
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\bin\Debug\net8.0\Welcome4.deps.json
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\bin\Debug\net8.0\Welcome4.runtimeconfig.json
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\bin\Debug\net8.0\Welcome4.dll
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\bin\Debug\net8.0\Welcome4.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\obj\Debug\net8.0\Welcome4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\obj\Debug\net8.0\Welcome4.AssemblyInfoInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\obj\Debug\net8.0\Welcome4.AssemblyInfo.cs
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\obj\Debug\net8.0\Welcome4.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\obj\Debug\net8.0\Welcome4.dll
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\obj\Debug\net8.0\refint\Welcome4.dll
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\obj\Debug\net8.0\Welcome4.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\obj\Debug\net8.0\Welcome4.genruntimeconfig.cache
+C:\Users\hlcma\Documents\Examples\examples\ch03\Welcome4\obj\Debug\net8.0\ref\Welcome4.dll
