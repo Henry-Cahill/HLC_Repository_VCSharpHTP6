@@ -1,0 +1,14 @@
+D:\Examples\ch04\Chp4.14\bin\Debug\net8.0\Chp4.14.exe
+D:\Examples\ch04\Chp4.14\bin\Debug\net8.0\Chp4.14.deps.json
+D:\Examples\ch04\Chp4.14\bin\Debug\net8.0\Chp4.14.runtimeconfig.json
+D:\Examples\ch04\Chp4.14\bin\Debug\net8.0\Chp4.14.dll
+D:\Examples\ch04\Chp4.14\bin\Debug\net8.0\Chp4.14.pdb
+D:\Examples\ch04\Chp4.14\obj\Debug\net8.0\Chp4.14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\ch04\Chp4.14\obj\Debug\net8.0\Chp4.14.AssemblyInfoInputs.cache
+D:\Examples\ch04\Chp4.14\obj\Debug\net8.0\Chp4.14.AssemblyInfo.cs
+D:\Examples\ch04\Chp4.14\obj\Debug\net8.0\Chp4.14.csproj.CoreCompileInputs.cache
+D:\Examples\ch04\Chp4.14\obj\Debug\net8.0\Chp4.14.dll
+D:\Examples\ch04\Chp4.14\obj\Debug\net8.0\refint\Chp4.14.dll
+D:\Examples\ch04\Chp4.14\obj\Debug\net8.0\Chp4.14.pdb
+D:\Examples\ch04\Chp4.14\obj\Debug\net8.0\Chp4.14.genruntimeconfig.cache
+D:\Examples\ch04\Chp4.14\obj\Debug\net8.0\ref\Chp4.14.dll

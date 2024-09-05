@@ -1,0 +1,14 @@
+D:\Examples\ch04\Chp4.13 Exercise\bin\Debug\net8.0\Chp4.13 Exercise.exe
+D:\Examples\ch04\Chp4.13 Exercise\bin\Debug\net8.0\Chp4.13 Exercise.deps.json
+D:\Examples\ch04\Chp4.13 Exercise\bin\Debug\net8.0\Chp4.13 Exercise.runtimeconfig.json
+D:\Examples\ch04\Chp4.13 Exercise\bin\Debug\net8.0\Chp4.13 Exercise.dll
+D:\Examples\ch04\Chp4.13 Exercise\bin\Debug\net8.0\Chp4.13 Exercise.pdb
+D:\Examples\ch04\Chp4.13 Exercise\obj\Debug\net8.0\Chp4.13 Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\ch04\Chp4.13 Exercise\obj\Debug\net8.0\Chp4.13 Exercise.AssemblyInfoInputs.cache
+D:\Examples\ch04\Chp4.13 Exercise\obj\Debug\net8.0\Chp4.13 Exercise.AssemblyInfo.cs
+D:\Examples\ch04\Chp4.13 Exercise\obj\Debug\net8.0\Chp4.13 Exercise.csproj.CoreCompileInputs.cache
+D:\Examples\ch04\Chp4.13 Exercise\obj\Debug\net8.0\Chp4.13 Exercise.dll
+D:\Examples\ch04\Chp4.13 Exercise\obj\Debug\net8.0\refint\Chp4.13 Exercise.dll
+D:\Examples\ch04\Chp4.13 Exercise\obj\Debug\net8.0\Chp4.13 Exercise.pdb
+D:\Examples\ch04\Chp4.13 Exercise\obj\Debug\net8.0\Chp4.13 Exercise.genruntimeconfig.cache
+D:\Examples\ch04\Chp4.13 Exercise\obj\Debug\net8.0\ref\Chp4.13 Exercise.dll
