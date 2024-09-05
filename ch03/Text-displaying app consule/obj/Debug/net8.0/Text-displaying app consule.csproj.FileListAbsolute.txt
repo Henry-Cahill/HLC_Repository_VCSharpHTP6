@@ -1,0 +1,14 @@
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\bin\Debug\net8.0\Text-displaying app consule.exe
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\bin\Debug\net8.0\Text-displaying app consule.deps.json
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\bin\Debug\net8.0\Text-displaying app consule.runtimeconfig.json
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\bin\Debug\net8.0\Text-displaying app consule.dll
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\bin\Debug\net8.0\Text-displaying app consule.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\obj\Debug\net8.0\Text-displaying app consule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\obj\Debug\net8.0\Text-displaying app consule.AssemblyInfoInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\obj\Debug\net8.0\Text-displaying app consule.AssemblyInfo.cs
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\obj\Debug\net8.0\Text-displaying app consule.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\obj\Debug\net8.0\Text-displaying app consule.dll
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\obj\Debug\net8.0\refint\Text-displaying app consule.dll
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\obj\Debug\net8.0\Text-displaying app consule.pdb
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\obj\Debug\net8.0\Text-displaying app consule.genruntimeconfig.cache
+C:\Users\hlcma\Documents\Examples\examples\ch03\Text-displaying app consule\obj\Debug\net8.0\ref\Text-displaying app consule.dll
