@@ -1,0 +1,14 @@
+D:\Examples\examples\ch03\Chp 3.18\obj\Debug\net8.0\Chp 3.18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\examples\ch03\Chp 3.18\obj\Debug\net8.0\Chp 3.18.AssemblyInfoInputs.cache
+D:\Examples\examples\ch03\Chp 3.18\obj\Debug\net8.0\Chp 3.18.AssemblyInfo.cs
+D:\Examples\examples\ch03\Chp 3.18\obj\Debug\net8.0\Chp 3.18.csproj.CoreCompileInputs.cache
+D:\Examples\examples\ch03\Chp 3.18\bin\Debug\net8.0\Chp 3.18.exe
+D:\Examples\examples\ch03\Chp 3.18\bin\Debug\net8.0\Chp 3.18.deps.json
+D:\Examples\examples\ch03\Chp 3.18\bin\Debug\net8.0\Chp 3.18.runtimeconfig.json
+D:\Examples\examples\ch03\Chp 3.18\bin\Debug\net8.0\Chp 3.18.dll
+D:\Examples\examples\ch03\Chp 3.18\bin\Debug\net8.0\Chp 3.18.pdb
+D:\Examples\examples\ch03\Chp 3.18\obj\Debug\net8.0\Chp 3.18.dll
+D:\Examples\examples\ch03\Chp 3.18\obj\Debug\net8.0\refint\Chp 3.18.dll
+D:\Examples\examples\ch03\Chp 3.18\obj\Debug\net8.0\Chp 3.18.pdb
+D:\Examples\examples\ch03\Chp 3.18\obj\Debug\net8.0\Chp 3.18.genruntimeconfig.cache
+D:\Examples\examples\ch03\Chp 3.18\obj\Debug\net8.0\ref\Chp 3.18.dll
