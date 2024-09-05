@@ -1,0 +1,14 @@
+C:\Users\hlcma\source\repos\Chp3 3.4a\bin\Debug\net8.0\Chp3 3.4a.exe
+C:\Users\hlcma\source\repos\Chp3 3.4a\bin\Debug\net8.0\Chp3 3.4a.deps.json
+C:\Users\hlcma\source\repos\Chp3 3.4a\bin\Debug\net8.0\Chp3 3.4a.runtimeconfig.json
+C:\Users\hlcma\source\repos\Chp3 3.4a\bin\Debug\net8.0\Chp3 3.4a.dll
+C:\Users\hlcma\source\repos\Chp3 3.4a\bin\Debug\net8.0\Chp3 3.4a.pdb
+C:\Users\hlcma\source\repos\Chp3 3.4a\obj\Debug\net8.0\Chp3 3.4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\source\repos\Chp3 3.4a\obj\Debug\net8.0\Chp3 3.4a.AssemblyInfoInputs.cache
+C:\Users\hlcma\source\repos\Chp3 3.4a\obj\Debug\net8.0\Chp3 3.4a.AssemblyInfo.cs
+C:\Users\hlcma\source\repos\Chp3 3.4a\obj\Debug\net8.0\Chp3 3.4a.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\source\repos\Chp3 3.4a\obj\Debug\net8.0\Chp3 3.4a.dll
+C:\Users\hlcma\source\repos\Chp3 3.4a\obj\Debug\net8.0\refint\Chp3 3.4a.dll
+C:\Users\hlcma\source\repos\Chp3 3.4a\obj\Debug\net8.0\Chp3 3.4a.pdb
+C:\Users\hlcma\source\repos\Chp3 3.4a\obj\Debug\net8.0\Chp3 3.4a.genruntimeconfig.cache
+C:\Users\hlcma\source\repos\Chp3 3.4a\obj\Debug\net8.0\ref\Chp3 3.4a.dll
