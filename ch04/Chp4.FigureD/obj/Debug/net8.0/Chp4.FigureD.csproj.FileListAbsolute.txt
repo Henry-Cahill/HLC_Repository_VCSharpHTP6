@@ -1,0 +1,14 @@
+D:\Examples\ch04\Chp4.FigureD\bin\Debug\net8.0\Chp4.FigureD.exe
+D:\Examples\ch04\Chp4.FigureD\bin\Debug\net8.0\Chp4.FigureD.deps.json
+D:\Examples\ch04\Chp4.FigureD\bin\Debug\net8.0\Chp4.FigureD.runtimeconfig.json
+D:\Examples\ch04\Chp4.FigureD\bin\Debug\net8.0\Chp4.FigureD.dll
+D:\Examples\ch04\Chp4.FigureD\bin\Debug\net8.0\Chp4.FigureD.pdb
+D:\Examples\ch04\Chp4.FigureD\obj\Debug\net8.0\Chp4.FigureD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\ch04\Chp4.FigureD\obj\Debug\net8.0\Chp4.FigureD.AssemblyInfoInputs.cache
+D:\Examples\ch04\Chp4.FigureD\obj\Debug\net8.0\Chp4.FigureD.AssemblyInfo.cs
+D:\Examples\ch04\Chp4.FigureD\obj\Debug\net8.0\Chp4.FigureD.csproj.CoreCompileInputs.cache
+D:\Examples\ch04\Chp4.FigureD\obj\Debug\net8.0\Chp4.FigureD.dll
+D:\Examples\ch04\Chp4.FigureD\obj\Debug\net8.0\refint\Chp4.FigureD.dll
+D:\Examples\ch04\Chp4.FigureD\obj\Debug\net8.0\Chp4.FigureD.pdb
+D:\Examples\ch04\Chp4.FigureD\obj\Debug\net8.0\Chp4.FigureD.genruntimeconfig.cache
+D:\Examples\ch04\Chp4.FigureD\obj\Debug\net8.0\ref\Chp4.FigureD.dll
