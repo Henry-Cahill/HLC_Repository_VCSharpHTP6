@@ -1,0 +1,14 @@
+C:\Users\hlcma\Desktop\Chp 3.19 Main\bin\Debug\net8.0\Chp 3.19 Main.exe
+C:\Users\hlcma\Desktop\Chp 3.19 Main\bin\Debug\net8.0\Chp 3.19 Main.deps.json
+C:\Users\hlcma\Desktop\Chp 3.19 Main\bin\Debug\net8.0\Chp 3.19 Main.runtimeconfig.json
+C:\Users\hlcma\Desktop\Chp 3.19 Main\bin\Debug\net8.0\Chp 3.19 Main.dll
+C:\Users\hlcma\Desktop\Chp 3.19 Main\bin\Debug\net8.0\Chp 3.19 Main.pdb
+C:\Users\hlcma\Desktop\Chp 3.19 Main\obj\Debug\net8.0\Chp 3.19 Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlcma\Desktop\Chp 3.19 Main\obj\Debug\net8.0\Chp 3.19 Main.AssemblyInfoInputs.cache
+C:\Users\hlcma\Desktop\Chp 3.19 Main\obj\Debug\net8.0\Chp 3.19 Main.AssemblyInfo.cs
+C:\Users\hlcma\Desktop\Chp 3.19 Main\obj\Debug\net8.0\Chp 3.19 Main.csproj.CoreCompileInputs.cache
+C:\Users\hlcma\Desktop\Chp 3.19 Main\obj\Debug\net8.0\Chp 3.19 Main.dll
+C:\Users\hlcma\Desktop\Chp 3.19 Main\obj\Debug\net8.0\refint\Chp 3.19 Main.dll
+C:\Users\hlcma\Desktop\Chp 3.19 Main\obj\Debug\net8.0\Chp 3.19 Main.pdb
+C:\Users\hlcma\Desktop\Chp 3.19 Main\obj\Debug\net8.0\Chp 3.19 Main.genruntimeconfig.cache
+C:\Users\hlcma\Desktop\Chp 3.19 Main\obj\Debug\net8.0\ref\Chp 3.19 Main.dll
