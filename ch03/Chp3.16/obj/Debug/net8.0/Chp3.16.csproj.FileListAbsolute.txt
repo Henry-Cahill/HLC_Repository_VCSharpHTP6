@@ -1,0 +1,14 @@
+D:\Examples\examples\ch03\Chp3.16\bin\Debug\net8.0\Chp3.16.exe
+D:\Examples\examples\ch03\Chp3.16\bin\Debug\net8.0\Chp3.16.deps.json
+D:\Examples\examples\ch03\Chp3.16\bin\Debug\net8.0\Chp3.16.runtimeconfig.json
+D:\Examples\examples\ch03\Chp3.16\bin\Debug\net8.0\Chp3.16.dll
+D:\Examples\examples\ch03\Chp3.16\bin\Debug\net8.0\Chp3.16.pdb
+D:\Examples\examples\ch03\Chp3.16\obj\Debug\net8.0\Chp3.16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\examples\ch03\Chp3.16\obj\Debug\net8.0\Chp3.16.AssemblyInfoInputs.cache
+D:\Examples\examples\ch03\Chp3.16\obj\Debug\net8.0\Chp3.16.AssemblyInfo.cs
+D:\Examples\examples\ch03\Chp3.16\obj\Debug\net8.0\Chp3.16.csproj.CoreCompileInputs.cache
+D:\Examples\examples\ch03\Chp3.16\obj\Debug\net8.0\Chp3.16.dll
+D:\Examples\examples\ch03\Chp3.16\obj\Debug\net8.0\refint\Chp3.16.dll
+D:\Examples\examples\ch03\Chp3.16\obj\Debug\net8.0\Chp3.16.pdb
+D:\Examples\examples\ch03\Chp3.16\obj\Debug\net8.0\Chp3.16.genruntimeconfig.cache
+D:\Examples\examples\ch03\Chp3.16\obj\Debug\net8.0\ref\Chp3.16.dll
