@@ -1,0 +1,14 @@
+D:\Examples\ch05\Chp5.13 Improved\bin\Debug\net8.0\Chp5.13 Improved.exe
+D:\Examples\ch05\Chp5.13 Improved\bin\Debug\net8.0\Chp5.13 Improved.deps.json
+D:\Examples\ch05\Chp5.13 Improved\bin\Debug\net8.0\Chp5.13 Improved.runtimeconfig.json
+D:\Examples\ch05\Chp5.13 Improved\bin\Debug\net8.0\Chp5.13 Improved.dll
+D:\Examples\ch05\Chp5.13 Improved\bin\Debug\net8.0\Chp5.13 Improved.pdb
+D:\Examples\ch05\Chp5.13 Improved\obj\Debug\net8.0\Chp5.13 Improved.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\ch05\Chp5.13 Improved\obj\Debug\net8.0\Chp5.13 Improved.AssemblyInfoInputs.cache
+D:\Examples\ch05\Chp5.13 Improved\obj\Debug\net8.0\Chp5.13 Improved.AssemblyInfo.cs
+D:\Examples\ch05\Chp5.13 Improved\obj\Debug\net8.0\Chp5.13 Improved.csproj.CoreCompileInputs.cache
+D:\Examples\ch05\Chp5.13 Improved\obj\Debug\net8.0\Chp5.13 Improved.dll
+D:\Examples\ch05\Chp5.13 Improved\obj\Debug\net8.0\refint\Chp5.13 Improved.dll
+D:\Examples\ch05\Chp5.13 Improved\obj\Debug\net8.0\Chp5.13 Improved.pdb
+D:\Examples\ch05\Chp5.13 Improved\obj\Debug\net8.0\Chp5.13 Improved.genruntimeconfig.cache
+D:\Examples\ch05\Chp5.13 Improved\obj\Debug\net8.0\ref\Chp5.13 Improved.dll
