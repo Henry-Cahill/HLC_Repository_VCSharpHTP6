@@ -1,0 +1,14 @@
+D:\Examples\ch05\Chp5.6 Exercise\bin\Debug\net8.0\Chp5.6 Exercise.exe
+D:\Examples\ch05\Chp5.6 Exercise\bin\Debug\net8.0\Chp5.6 Exercise.deps.json
+D:\Examples\ch05\Chp5.6 Exercise\bin\Debug\net8.0\Chp5.6 Exercise.runtimeconfig.json
+D:\Examples\ch05\Chp5.6 Exercise\bin\Debug\net8.0\Chp5.6 Exercise.dll
+D:\Examples\ch05\Chp5.6 Exercise\bin\Debug\net8.0\Chp5.6 Exercise.pdb
+D:\Examples\ch05\Chp5.6 Exercise\obj\Debug\net8.0\Chp5.6 Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\ch05\Chp5.6 Exercise\obj\Debug\net8.0\Chp5.6 Exercise.AssemblyInfoInputs.cache
+D:\Examples\ch05\Chp5.6 Exercise\obj\Debug\net8.0\Chp5.6 Exercise.AssemblyInfo.cs
+D:\Examples\ch05\Chp5.6 Exercise\obj\Debug\net8.0\Chp5.6 Exercise.csproj.CoreCompileInputs.cache
+D:\Examples\ch05\Chp5.6 Exercise\obj\Debug\net8.0\Chp5.6 Exercise.dll
+D:\Examples\ch05\Chp5.6 Exercise\obj\Debug\net8.0\refint\Chp5.6 Exercise.dll
+D:\Examples\ch05\Chp5.6 Exercise\obj\Debug\net8.0\Chp5.6 Exercise.pdb
+D:\Examples\ch05\Chp5.6 Exercise\obj\Debug\net8.0\Chp5.6 Exercise.genruntimeconfig.cache
+D:\Examples\ch05\Chp5.6 Exercise\obj\Debug\net8.0\ref\Chp5.6 Exercise.dll
