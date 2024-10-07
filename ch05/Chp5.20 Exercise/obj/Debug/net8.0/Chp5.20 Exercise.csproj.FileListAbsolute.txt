@@ -1,0 +1,14 @@
+D:\Examples\ch05\Chp5.20 Exercise\bin\Debug\net8.0\Chp5.20 Exercise.exe
+D:\Examples\ch05\Chp5.20 Exercise\bin\Debug\net8.0\Chp5.20 Exercise.deps.json
+D:\Examples\ch05\Chp5.20 Exercise\bin\Debug\net8.0\Chp5.20 Exercise.runtimeconfig.json
+D:\Examples\ch05\Chp5.20 Exercise\bin\Debug\net8.0\Chp5.20 Exercise.dll
+D:\Examples\ch05\Chp5.20 Exercise\bin\Debug\net8.0\Chp5.20 Exercise.pdb
+D:\Examples\ch05\Chp5.20 Exercise\obj\Debug\net8.0\Chp5.20 Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\ch05\Chp5.20 Exercise\obj\Debug\net8.0\Chp5.20 Exercise.AssemblyInfoInputs.cache
+D:\Examples\ch05\Chp5.20 Exercise\obj\Debug\net8.0\Chp5.20 Exercise.AssemblyInfo.cs
+D:\Examples\ch05\Chp5.20 Exercise\obj\Debug\net8.0\Chp5.20 Exercise.csproj.CoreCompileInputs.cache
+D:\Examples\ch05\Chp5.20 Exercise\obj\Debug\net8.0\Chp5.20 Exercise.dll
+D:\Examples\ch05\Chp5.20 Exercise\obj\Debug\net8.0\refint\Chp5.20 Exercise.dll
+D:\Examples\ch05\Chp5.20 Exercise\obj\Debug\net8.0\Chp5.20 Exercise.pdb
+D:\Examples\ch05\Chp5.20 Exercise\obj\Debug\net8.0\Chp5.20 Exercise.genruntimeconfig.cache
+D:\Examples\ch05\Chp5.20 Exercise\obj\Debug\net8.0\ref\Chp5.20 Exercise.dll
